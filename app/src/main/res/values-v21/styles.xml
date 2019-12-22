@@ -1,0 +1,21 @@
+<resources>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+    <style name="ThemeDark" parent="AppTheme.NoActionBar">
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorAccent">@color/white2</item>
+    </style>
+
+    <style name="ThemeLight" parent="AppTheme.NoActionBar">
+        <item name="colorPrimaryDark">@color/dark_yellow</item>
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorAccent">@color/yellow</item>
+    </style>
+
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LanguageAndTheme</string>
+    <string name="action_settings">Optiones</string>
+
+    <string name="preference_theme_title">theme</string>
+    <string name="preference_theme_summary">Theme tui quandoque app</string>
+
+    <string name="text_view">Orbis Terrarum salve!</string>
+</resources>

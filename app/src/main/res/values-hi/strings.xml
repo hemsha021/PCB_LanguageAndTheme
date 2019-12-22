@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LanguageAndTheme</string>
+    <string name="action_settings">सेटिंग्स</string>
+
+    <string name="preference_theme_title">विषय</string>
+    <string name="preference_theme_summary">अपना ऐप थीम बदलें</string>
+
+    <string name="text_view">नमस्ते दुनिया!</string>
+</resources>
